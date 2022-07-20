@@ -1,4 +1,4 @@
-# go-strategy-design-pattern
+# strategy-pattern
 Strategy pattern implementation in Golang
 
 ## Strategy Design Pattern
